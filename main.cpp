@@ -2,7 +2,6 @@
 #include <iostream>
 #define CVUI_IMPLEMENTATION
 #include "cvui.h"
-//#include "FireMovement.h"
 
 
 using namespace std;
